@@ -2,7 +2,7 @@ export const App = () => {
   return (
     <div
       style={{
-        height: '100vh',
+        height: 'auto',
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
